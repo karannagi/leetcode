@@ -180,6 +180,12 @@
         <td><a href="https://github.com/karannagi/leetcode/blob/master/src/com/leetcode/solutions/_283.java">Link</a></td>
         <td>Easy</td>
   </tr>
+    <tr>
+        <td>404</td>
+        <td>Sum of Left Leaves</td>
+        <td><a href="https://github.com/karannagi/leetcode/blob/master/src/com/leetcode/solutions/_404.java">Link</a></td>
+        <td>Easy</td>
+  </tr>
   <tr>
         <td>508</td>
         <td>Most Frequent Subtree Sum</td>
@@ -266,9 +272,9 @@
   </tr>
   <tr>
         <td>701</td>
-        <td>Search in a Binary Search Tree</td>
+        <td>Insert into a Binary Search Tree</td>
         <td><a href="https://github.com/karannagi/leetcode/blob/master/src/com/leetcode/solutions/_701.java">Link</a></td>
-        <td>Easy</td>
+        <td>Medium</td>
   </tr>
   <tr>
         <td>725</td>
