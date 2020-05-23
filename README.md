@@ -265,6 +265,12 @@
         <td>Easy</td>
   </tr>
   <tr>
+        <td>701</td>
+        <td>Search in a Binary Search Tree</td>
+        <td><a href="https://github.com/karannagi/leetcode/blob/master/src/com/leetcode/solutions/_701.java">Link</a></td>
+        <td>Easy</td>
+  </tr>
+  <tr>
         <td>725</td>
         <td>Split Linked List in Parts</td>
         <td><a href="https://github.com/karannagi/leetcode/blob/master/src/com/leetcode/solutions/_725.java">Link</a></td>
