@@ -301,6 +301,12 @@
         <td><a href="https://github.com/karannagi/leetcode/blob/master/src/com/leetcode/solutions/_938.java">Link</a></td>
         <td>Easy</td>
   </tr>
+    <tr>
+        <td>965</td>
+        <td>Univalued Binary Tree</td>
+        <td><a href="https://github.com/karannagi/leetcode/blob/master/src/com/leetcode/solutions/_965.java">Link</a></td>
+        <td>Easy</td>
+  </tr>
   <tr>
         <td>994</td>
         <td>Rotting Oranges</td>
