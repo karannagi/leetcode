@@ -319,5 +319,11 @@
         <td><a href="https://github.com/karannagi/leetcode/blob/master/src/com/leetcode/solutions/_1268.java">Link</a></td>
         <td>Medium</td>
   </tr>
+   <tr>
+        <td>1409</td>
+        <td>Queries on a Permutation With Key</td>
+        <td><a href="https://github.com/karannagi/leetcode/blob/master/src/com/leetcode/solutions/_1409.java">Link</a></td>
+        <td>Medium</td>
+  </tr>
 </table>
   </div>
