@@ -175,6 +175,12 @@
         <td><a href="https://github.com/karannagi/leetcode/blob/master/src/com/leetcode/solutions/_200.java">Link</a></td>
         <td>Medium</td>
   </tr>
+    <tr>
+        <td>207</td>
+        <td>Course Schedule</td>
+        <td><a href="https://github.com/karannagi/leetcode/blob/master/src/com/leetcode/solutions/_207.java">Link</a></td>
+        <td>Medium</td>
+  </tr>
   <tr>
         <td>283</td>
         <td>Move Zeroes</td>
