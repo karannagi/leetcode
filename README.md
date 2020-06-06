@@ -188,6 +188,12 @@
         <td>Easy</td>
   </tr>
     <tr>
+        <td>347</td>
+        <td>Top K Frequent Elements</td>
+        <td><a href="https://github.com/karannagi/leetcode/blob/master/src/com/leetcode/solutions/_347.java">Link</a></td>
+        <td>Medium</td>
+  </tr>
+    <tr>
         <td>404</td>
         <td>Sum of Left Leaves</td>
         <td><a href="https://github.com/karannagi/leetcode/blob/master/src/com/leetcode/solutions/_404.java">Link</a></td>
