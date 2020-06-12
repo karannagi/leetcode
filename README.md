@@ -85,6 +85,12 @@
         <td><a href="https://github.com/karannagi/leetcode/blob/master/src/com/leetcode/solutions/_78.java">Link</a></td>
         <td>Medium</td>
   </tr>
+     <tr>
+        <td>93</td>
+        <td>Restore IP Addresses</td>
+        <td><a href="https://github.com/karannagi/leetcode/blob/master/src/com/leetcode/solutions/_93.java">Link</a></td>
+        <td>Medium</td>
+  </tr>
    <tr>
         <td>94</td>
         <td>Binary Tree Inorder Traversal</td>
