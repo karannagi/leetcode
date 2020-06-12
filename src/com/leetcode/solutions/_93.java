@@ -38,8 +38,11 @@ import java.util.List;
 	    }
 	    
 	    boolean isValid(String s){
-	        if(s.length()>3 || s.charAt(0)=='0')
+	        if(s.length()>3)
 	            return false;
+                 
+                if(s.lenth()>1 && s.charAt(0)=='0')
+                    return false;
 	        
 	        int ipChunk = Integer.parseInt(s);
 	        if(ipChunk<256)
