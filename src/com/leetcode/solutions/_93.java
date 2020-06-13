@@ -5,7 +5,7 @@ import java.util.List;
 
  class Solution93 {
 
-	 List<String> result = new ArrayList<>();
+	  List<String> result = new ArrayList<>();
 	    public List<String> restoreIpAddresses(String s) {
 	        int points=3;
 	        int i=0;
@@ -17,7 +17,7 @@ import java.util.List;
 	    void restoreIpAddressUtil(String s, int k, int points,String[] ip){
 	        if(k==4) {
 	        	result.add(ip[0]+"."+ip[1]+"."+ip[2]+"."+ip[3]);
-	            
+	            return;
 	        }
 	        for(int i=1;i<4;i++){
 	        	if(s.length()<i)
@@ -40,10 +40,9 @@ import java.util.List;
 	    boolean isValid(String s){
 	        if(s.length()>3)
 	            return false;
-                 
-                if(s.lenth()>1 && s.charAt(0)=='0')
-                    return false;
-	        
+	        if(s.length()>1 && s.charAt(0)=='0')
+              return false;
+          
 	        int ipChunk = Integer.parseInt(s);
 	        if(ipChunk<256)
 	            return true;

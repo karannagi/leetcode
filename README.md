@@ -43,6 +43,12 @@
         <td><a href="https://github.com/karannagi/leetcode/blob/master/src/com/leetcode/solutions/_20.java">Link</a></td>
         <td>Easy</td>
   </tr>
+  <tr>
+        <td>22</td>
+        <td>Generate Parentheses</td>
+        <td><a href="https://github.com/karannagi/leetcode/blob/master/src/com/leetcode/solutions/_22.java">Link</a></td>
+        <td>Medium</td>
+  </tr>
      <tr>
         <td>23</td>
         <td>Merge k Sorted Lists</td>
