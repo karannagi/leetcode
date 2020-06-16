@@ -31,6 +31,12 @@
         <td><a href="https://github.com/karannagi/leetcode/blob/master/src/com/leetcode/solutions/_3.java">Link</a></td>
         <td>Medium</td>
   </tr>
+      <tr>
+        <td>8</td>
+        <td>String to Integer (atoi)</td>
+        <td><a href="https://github.com/karannagi/leetcode/blob/master/src/com/leetcode/solutions/_8.java">Link</a></td>
+        <td>Medium</td>
+  </tr>
    <tr>
         <td>15</td>
         <td>3Sum</td>
