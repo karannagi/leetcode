@@ -205,6 +205,12 @@
         <td><a href="https://github.com/karannagi/leetcode/blob/master/src/com/leetcode/solutions/_207.java">Link</a></td>
         <td>Medium</td>
   </tr>
+      <tr>
+        <td>268</td>
+        <td>Missing Number</td>
+        <td><a href="https://github.com/karannagi/leetcode/blob/master/src/com/leetcode/solutions/_268.java">Link</a></td>
+        <td>Easy</td>
+  </tr>
   <tr>
         <td>283</td>
         <td>Move Zeroes</td>
@@ -221,7 +227,7 @@
         <td>387</td>
         <td>First Unique Character in a String</td>
         <td><a href="https://github.com/karannagi/leetcode/blob/master/src/com/leetcode/solutions/_387.java">Link</a></td>
-        <td>Medium</td>
+        <td>Easy</td>
   </tr>
     <tr>
         <td>404</td>
