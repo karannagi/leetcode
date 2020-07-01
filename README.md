@@ -193,6 +193,12 @@
         <td><a href="https://github.com/karannagi/leetcode/blob/master/src/com/leetcode/solutions/_165.java">Link</a></td>
         <td>Medium</td>
   </tr>
+        <tr>
+        <td>167</td>
+        <td>Two Sum II - Input array is sorted</td>
+        <td><a href="https://github.com/karannagi/leetcode/blob/master/src/com/leetcode/solutions/_167.java">Link</a></td>
+        <td>Easy</td>
+  </tr>
   <tr>
         <td>200</td>
         <td>Number of Islands</td>
@@ -203,6 +209,12 @@
         <td>207</td>
         <td>Course Schedule</td>
         <td><a href="https://github.com/karannagi/leetcode/blob/master/src/com/leetcode/solutions/_207.java">Link</a></td>
+        <td>Medium</td>
+  </tr>
+      <tr>
+        <td>253</td>
+        <td>Meeting Rooms II</td>
+        <td><a href="https://github.com/karannagi/leetcode/blob/master/src/com/leetcode/solutions/_253.java">Link</a></td>
         <td>Medium</td>
   </tr>
       <tr>
