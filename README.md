@@ -230,6 +230,12 @@
         <td>Medium</td>
   </tr>
       <tr>
+        <td>230</td>
+        <td>Kth Smallest Element in a BST</td>
+        <td><a href="https://github.com/karannagi/leetcode/blob/master/src/com/leetcode/solutions/_230.java">Link</a></td>
+        <td>Medium</td>
+  </tr>
+      <tr>
         <td>253</td>
         <td>Meeting Rooms II</td>
         <td><a href="https://github.com/karannagi/leetcode/blob/master/src/com/leetcode/solutions/_253.java">Link</a></td>
