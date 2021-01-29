@@ -194,6 +194,12 @@
         <td>Easy</td>
   </tr>
       <tr>
+        <td>160</td>
+        <td>Intersection of Two Linked Lists</td>
+        <td><a href="https://github.com/karannagi/leetcode/blob/master/src/com/leetcode/solutions/_160.java">Link</a></td>
+        <td>Easy</td>
+  </tr>
+      <tr>
         <td>165</td>
         <td>Compare Version Numbers</td>
         <td><a href="https://github.com/karannagi/leetcode/blob/master/src/com/leetcode/solutions/_165.java">Link</a></td>
