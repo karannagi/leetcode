@@ -151,6 +151,12 @@
         <td><a href="https://github.com/karannagi/leetcode/blob/master/src/com/leetcode/solutions/_104.java">Link</a></td>
         <td>Easy</td>
   </tr>
+ <tr>
+        <td>116</td>
+        <td>Populating Next Right Pointers in Each Node</td>
+        <td><a href="https://github.com/karannagi/leetcode/blob/master/src/com/leetcode/solutions/_116.java">Link</a></td>
+        <td>Medium</td>
+  </tr>
   <tr>
         <td>119</td>
         <td>Pascal's Triangle II</td>
