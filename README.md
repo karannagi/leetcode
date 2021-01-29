@@ -235,6 +235,12 @@
         <td><a href="https://github.com/karannagi/leetcode/blob/master/src/com/leetcode/solutions/_283.java">Link</a></td>
         <td>Easy</td>
   </tr>
+  <tr>
+        <td>328</td>
+        <td>Odd Even Linked List</td>
+        <td><a href="https://github.com/karannagi/leetcode/blob/master/src/com/leetcode/solutions/_328.java">Link</a></td>
+        <td>Medium</td>
+  </tr>
     <tr>
         <td>347</td>
         <td>Top K Frequent Elements</td>
