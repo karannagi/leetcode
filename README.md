@@ -67,6 +67,12 @@
         <td><a href="https://github.com/karannagi/leetcode/blob/master/src/com/leetcode/solutions/_23.java">Link</a></td>
         <td>Hard</td>
   </tr>
+       <tr>
+        <td>37</td>
+        <td>Valid Sudoku</td>
+        <td><a href="https://github.com/karannagi/leetcode/blob/master/src/com/leetcode/solutions/_37.java">Link</a></td>
+        <td>Medium</td>
+  </tr>
   <tr>
         <td>42</td>
         <td>Trapping Rain Water</td>
