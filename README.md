@@ -187,6 +187,12 @@
         <td><a href="https://github.com/karannagi/leetcode/blob/master/src/com/leetcode/solutions/_126.java">Link</a></td>
         <td>Hard</td>
   </tr>
+    <tr>
+        <td>129</td>
+        <td>Sum Root to Leaf Numbers</td>
+        <td><a href="https://github.com/karannagi/leetcode/blob/master/src/com/leetcode/solutions/_129.java">Link</a></td>
+        <td>Hard</td>
+  </tr>
    <tr>
         <td>138</td>
         <td>Copy List with Random Pointer</td>
@@ -258,6 +264,12 @@
         <td>Move Zeroes</td>
         <td><a href="https://github.com/karannagi/leetcode/blob/master/src/com/leetcode/solutions/_283.java">Link</a></td>
         <td>Easy</td>
+  </tr>
+    <tr>
+        <td>300</td>
+        <td>Longest Increasing Subsequence</td>
+        <td><a href="https://github.com/karannagi/leetcode/blob/master/src/com/leetcode/solutions/_300.java">Link</a></td>
+        <td>Medium</td>
   </tr>
   <tr>
         <td>328</td>
