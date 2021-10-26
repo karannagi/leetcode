@@ -434,6 +434,12 @@
         <td>Medium</td>
   </tr>
   <tr>
+        <td>1010</td>
+        <td>Pairs of Songs With Total Durations Divisible by 60</td>
+        <td><a href="https://github.com/karannagi/leetcode/blob/master/src/com/leetcode/solutions/_1010.java">Link</a></td>
+        <td>Medium</td>
+  </tr>
+  <tr>
         <td>1268</td>
         <td>Search Suggestions System</td>
         <td><a href="https://github.com/karannagi/leetcode/blob/master/src/com/leetcode/solutions/_1268.java">Link</a></td>
