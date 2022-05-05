@@ -453,7 +453,7 @@
   </tr>
    <tr>
         <td>2139</td>
-        <td>Queries on a Permutation With Key</td>
+        <td>Minimum Moves to Reach Target Score</td>
         <td><a href="https://github.com/karannagi/leetcode/blob/master/src/com/leetcode/solutions/_2139.java">Link</a></td>
         <td>Medium</td>
   </tr>
