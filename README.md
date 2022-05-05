@@ -440,6 +440,12 @@
         <td>Medium</td>
   </tr>
   <tr>
+        <td>1094</td>
+        <td>Car Pooling</td>
+        <td><a href="https://github.com/karannagi/leetcode/blob/master/src/com/leetcode/solutions/_1094.java">Link</a></td>
+        <td>Medium</td>
+  </tr>
+  <tr>
         <td>1268</td>
         <td>Search Suggestions System</td>
         <td><a href="https://github.com/karannagi/leetcode/blob/master/src/com/leetcode/solutions/_1268.java">Link</a></td>
